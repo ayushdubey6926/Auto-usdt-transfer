@@ -1,0 +1,12 @@
+{
+“name”: “usdt-drainer”,
+“version”: “1.0.0”,
+“description”: “USDT BEP20 Drainer”,
+“main”: “usdt-drainer.js”,
+“scripts”: {
+“start”: “node usdt-drainer.js”
+},
+“dependencies”: {
+“web3”: “^1.7.4”
+}
+}
